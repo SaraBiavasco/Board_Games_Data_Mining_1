@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+jenkspy
+pyfim
+umap-learn
+hdbscan
+bertopic
+plotly
+gensim
+FlagEmbedding
